@@ -3,7 +3,7 @@
     padding: 0;
 }
 .navbar{
-    width: 100vw;
+    /* width: 100vw; */
 }
 .navbrand{
     /* border: 1px solid red; */
@@ -25,4 +25,7 @@ ul{
     /* border: 1px solid red; */
     justify-content: space-between;
     margin-left: 2em;
+}
+.carousel{
+    border: 1px solid red;
 }
