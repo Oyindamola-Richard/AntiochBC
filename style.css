@@ -13,3 +13,7 @@
 .logo{
     width: 50px;
 }
+.antioch{
+    border: 1px solid red;
+    letter-spacing: 0.5em;
+}
