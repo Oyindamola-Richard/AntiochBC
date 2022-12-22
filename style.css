@@ -22,3 +22,8 @@
     letter-spacing: 0.2em;
     font-size: 0.8em;
 }
+ul{
+    /* border: 1px solid red; */
+    justify-content: space-between;
+    margin-left: 2em;
+}
