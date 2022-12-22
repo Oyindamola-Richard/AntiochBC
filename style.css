@@ -30,6 +30,10 @@ ul{
     border: 1px solid red;
 }
 .carousel-img{
+    background-image: url(/img/favicon.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 100vw;
     height: 100vh;
 }
