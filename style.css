@@ -26,14 +26,11 @@ ul{
     justify-content: space-between;
     margin-left: 2em;
 }
-.carousel{
-    border: 1px solid red;
-}
-.carousel-img{
+.carousel-con{
     background-image: url(/img/favicon.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100vw;
     height: 100vh;
+    width: 100vw;
 }
