@@ -16,6 +16,7 @@
 .antioch{
     border: 1px solid red;
     letter-spacing: 0.5em;
+    font-weight: 600;
 }
 .baptist{
     letter-spacing: 0.2em;
