@@ -6,3 +6,7 @@
     position: fixed;
     width: 100vw;
 }
+.navbrand{
+    border: 1px solid red;
+    text-align: center;
+}
