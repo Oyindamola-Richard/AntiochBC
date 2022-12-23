@@ -39,9 +39,12 @@ ul{
     height: 100vh;
     width: 100vw;
     text-align: center; 
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 .carousel-text1{
     border: 1px solid red;
     height: fit-content;
-    margin-top: 10em;
+    /* margin-top: 10em; */
 }
