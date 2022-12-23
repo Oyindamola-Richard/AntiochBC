@@ -48,3 +48,11 @@ ul{
     height: fit-content;
     /* margin-top: 10em; */
 }
+.carousel-text2{
+    border: 1px solid red;
+    height: fit-content;
+}
+.carousel-text3{
+    border: 1px solid red;
+    height: fit-content;
+}
