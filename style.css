@@ -41,3 +41,8 @@ ul{
     text-align: center; 
     display: grid;
 }
+.carousel-text1{
+    border: 1px solid red;
+    height: fit-content;
+    margin-top: 10em;
+}
