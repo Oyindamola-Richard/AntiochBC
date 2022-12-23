@@ -39,7 +39,6 @@ ul{
     height: 100vh;
     width: 100vw;
     text-align: center; 
-    display: grid;
 }
 .carousel-text1{
     border: 1px solid red;
