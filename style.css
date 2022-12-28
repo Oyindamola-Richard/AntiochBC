@@ -33,16 +33,16 @@ ul{
     background-size: cover;
     height: 100vh;
     width: 100vw;
+    padding-top: 10em;
 }
 .carousel-texts{
     border: 1px solid red;
-    height: 100vh;
-    width: 100vw;
-    margin: auto;
-    text-align: center; 
     display: grid;
     justify-content: center;
     align-items: center;
+    height: 300px;
+    max-width: 100vw;
+    text-align: center; 
 }
 .carousel-text1{
     border: 1px solid red;
