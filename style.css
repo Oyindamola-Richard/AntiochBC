@@ -47,13 +47,18 @@ ul{
 .carousel-text1{
     border: 1px solid red;
     height: fit-content;
-    /* margin-top: 10em; */
+    width: fit-content;
+    margin: auto;
 }
 .carousel-text2{
     border: 1px solid red;
     height: fit-content;
+    width: fit-content;
+    margin: auto;
 }
 .carousel-text3{
     border: 1px solid red;
     height: fit-content;
+    width: fit-content;
+    margin: auto;
 }
