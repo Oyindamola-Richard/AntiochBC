@@ -128,3 +128,8 @@ ul{
     background-color: #012646;
     font-size: 0.8em
 }
+.spread-link:hover{
+    opacity: 0.9;
+    background-color: #67605F;
+    color: #ffffff;
+}
