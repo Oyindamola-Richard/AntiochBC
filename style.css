@@ -135,8 +135,11 @@ ul{
 }
 .footer{
     background-color: #2F2E2E;
-    color: #757474;
+    color: #8f8f8f;
 }
 .footer-content{
-    border-right: 1px solid #757474;
+    border-right: 1px solid #8f8f8f;
+}
+.footer-p{
+    font-size: 0.9em;
 }
