@@ -62,3 +62,10 @@ ul{
     width: fit-content;
     margin: auto;
 }
+.event-container{
+    background-color: #F7F5F2;
+}
+.event-header{
+    text-align: center;
+    
+}
