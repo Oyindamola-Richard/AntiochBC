@@ -36,7 +36,6 @@ ul{
     padding-top: 10em;
 }
 .carousel-texts{
-    /* border: 1px solid red; */
     display: grid;
     justify-content: center;
     align-items: center;
@@ -45,7 +44,6 @@ ul{
     text-align: center; 
 }
 .carousel-text1{
-    /* border: 1px solid red; */
     height: fit-content;
     width: fit-content;
     margin: auto;
@@ -53,7 +51,6 @@ ul{
     font-weight: 600;
 }
 .carousel-text2{
-    /* border: 1px solid red; */
     height: fit-content;
     width: fit-content;
     margin: auto;
