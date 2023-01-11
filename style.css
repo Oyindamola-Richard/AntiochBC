@@ -112,7 +112,12 @@ ul{
     font-size: 0.75em;
 }
 .spread-div{
-    background-color: #7D7560;
+    background-image: url(./img/favicon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.9;
     padding-top: 6em;
     padding-bottom: 6em;
 }
