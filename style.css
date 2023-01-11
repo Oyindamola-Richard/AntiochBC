@@ -91,3 +91,8 @@ ul{
     font-size: 0.95em;
     line-height: 1.4em;
 }
+.welcome-div{
+    text-align: center;
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
