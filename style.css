@@ -144,3 +144,10 @@ ul{
     font-size: 0.9em;
     line-height: 1.2em;
 }
+
+/* Resposiveness */
+/* @media all and (max-width: 320px){
+    .carousel-text2{
+        font-size: 1em;
+    }
+} */
