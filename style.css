@@ -58,8 +58,6 @@ ul{
 }
 .carousel-text3{
     background-color: #012646;
-    height: fit-content;
-    width: fit-content;
     margin: auto;
 }
 .event-container{
@@ -161,5 +159,8 @@ ul{
     .carousel-text2{
         max-width: 9em;
         font-size: 1.8em;
+    }
+    .carousel-text3{
+        font-size: 0.8em;
     }
 }
