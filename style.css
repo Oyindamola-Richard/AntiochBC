@@ -169,32 +169,25 @@ ul{
     .baptist{
         letter-spacing: 0.15em;
     }
-    .event-container{
-        background-color: #F7F5F2;
+    .event-content{
+        border-right: none;
+        border-bottom: 1px solid rgb(139, 139, 139);
     }
-    /* .event-header{
-        text-align: center;
-    } */
-    /* .event-content{
-        border-right: 1px solid rgb(139, 139, 139);
-        width: 20em;
-        text-align: center;
-    } */
-    /* .event-con2{
-        margin-top: 6em;
-        color: #3f4643;
-    } */
-    /* .event-con3{
-        margin-top: -1.1em;
-        font-size: 0.93em;
-    } */
-    /* .event-con4{
-        margin-top: 8em;
-        font-size: 0.75em;
-    } */
+    .event-content h3{
+        margin-top: 2em;
+    }
+    .event-con2{
+        margin-top: 1.5em;
+    }
+    .event-con4{
+        margin-top: 2.5em;
+        margin-bottom: 2.5em;
+    }
     /* .event-con5{
         margin-top: 5em;
         font-size: 0.95em;
         line-height: 1.4em;
     } */
 }
+
+/* border: 1px solid red; */
