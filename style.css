@@ -187,16 +187,9 @@ ul{
         margin-top: 2em;
     }
     .welcome-div{
-        text-align: center;
-        padding-top: 6em;
-        padding-bottom: 8em;
+        padding-top: 3em;
+        padding-bottom: 3em;
     }
-    /* .welcome-head{
-        letter-spacing: 0.2em;
-    } */
-    /* .welcome-con{
-        font-size: 0.95em;
-    } */
 }
 
 /* border: 1px solid red; */
