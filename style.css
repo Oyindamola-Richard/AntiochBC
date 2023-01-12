@@ -142,7 +142,78 @@ ul{
 }
 
 /* Resposiveness */
-@media all and (max-width: 320px){
+@media all and (max-width: 280px){
+    .carousel-con{
+        height: 55vh;
+        padding-top: 3em;
+    }
+    .carousel-texts{
+        height: 300px;
+        text-align: center; 
+    }
+    .carousel-text1{
+        font-size: 1.1em;
+    }
+    .carousel-text2{
+        max-width: 9em;
+        font-size: 1.7em;
+    }
+    .carousel-text3{
+        font-size: 0.8em;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .logo{
+        width: 35px;
+    }
+    .antioch{
+        letter-spacing: 0.2em;
+        font-size: 0.9em;
+    }
+    .baptist{
+        letter-spacing: 0.1em;
+        font-size: 0.7em;
+    }
+    .event-content{
+        border-right: none;
+        border-bottom: 1px solid rgb(139, 139, 139);
+        width: 100vw;
+    }
+    .event-content h3{
+        margin-top: 2em;
+    }
+    .event-con2{
+        margin-top: 1.5em;
+    }
+    .event-con4{
+        margin-top: 2.5em;
+        margin-bottom: 2.5em;
+    }
+    .event-con5{
+        margin-top: 2em;
+    }
+    .welcome-div{
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
+    .spread-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .spread-link{
+        font-size: 0.6em
+    }
+    .footer-content{
+        border-right: 0;
+    }
+    footer{
+        font-size: 0.7em;
+    }
+}
+
+@media all and (min-width: 281px) and (max-width: 320px){
     .carousel-con{
         height: 70vh;
         padding-top: 3em;
@@ -201,6 +272,9 @@ ul{
     }
     .footer-content{
         border-right: 0;
+    }
+    footer{
+        font-size: 0.8em;
     }
 }
 
@@ -334,5 +408,69 @@ ul{
         border-right: 0;
     }
 }
-
+@media all and (min-width:426px) and (max-width:720px){
+    .carousel-con{
+        height: 70vh;
+        padding-top: 3em;
+    }
+    .carousel-texts{
+        height: 300px;
+        text-align: center; 
+    }
+    .carousel-text1{
+        font-size: 1.2em;
+    }
+    .carousel-text2{
+        max-width: 9em;
+        font-size: 1.8em;
+    }
+    .carousel-text3{
+        font-size: 0.8em;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .event-content{
+        border-right: none;
+        border-bottom: 1px solid rgb(139, 139, 139);
+    }
+    .event-content h3{
+        margin-top: 2em;
+    }
+    .event-con2{
+        margin-top: 1.5em;
+    }
+    .event-con4{
+        margin-top: 2.5em;
+        margin-bottom: 2.5em;
+    }
+    .event-con5{
+        margin-top: 2em;
+    }
+    .welcome-div{
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
+    .welcome-head{
+        max-width: 15em;
+        margin: auto;
+    }
+    .spread-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .spread-link{
+        font-size: 0.7em
+    }
+    .footer-content{
+        border-right: 0;
+    }
+}
 /* border: 1px solid red; */
