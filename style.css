@@ -165,9 +165,9 @@ ul{
         display: flex;
         gap: 0.5em;
     }
-    .logo{
+    /* .logo{
         width: 35px;
-    }
+    } */
     .antioch{
         letter-spacing: 0.2em;
         font-size: 0.9em;
