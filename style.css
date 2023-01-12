@@ -52,7 +52,7 @@ ul{
 }
 .carousel-text2{
     height: fit-content;
-    width: fit-content;
+    max-width: 13em;
     margin: auto;
     font-size: 4.5em;
 }
