@@ -155,15 +155,11 @@ ul{
         height: 300px;
         text-align: center; 
     }
-    /* .carousel-text1{
-        height: fit-content;
-        width: fit-content;
-        margin: auto;
-        font-size: 1.5em;
-        font-weight: 600;
-    } */
+    .carousel-text1{
+        font-size: 1.2em;
+    }
     .carousel-text2{
-        max-width: 7em;
-        font-size: 2em;
+        max-width: 9em;
+        font-size: 1.8em;
     }
 }
