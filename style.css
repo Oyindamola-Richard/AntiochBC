@@ -146,8 +146,9 @@ ul{
 }
 
 /* Resposiveness */
-/* @media all and (max-width: 320px){
+@media all and (max-width: 320px){
     .carousel-text2{
-        font-size: 1em;
+        max-width: 7em;
+        font-size: 2em;
     }
-} */
+}
