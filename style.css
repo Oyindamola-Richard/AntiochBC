@@ -183,11 +183,9 @@ ul{
         margin-top: 2.5em;
         margin-bottom: 2.5em;
     }
-    /* .event-con5{
-        margin-top: 5em;
-        font-size: 0.95em;
-        line-height: 1.4em;
-    } */
+    .event-con5{
+        margin-top: 2em;
+    }
 }
 
 /* border: 1px solid red; */
