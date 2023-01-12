@@ -203,7 +203,8 @@ ul{
         border-right: 0;
     }
 }
-@media all and (min-width: 321px) and (max-width: 375px){
+
+@media all and (min-width: 376px) and (max-width: 425px){
     .carousel-con{
         height: 80vh;
         padding-top: 3em;
@@ -252,7 +253,6 @@ ul{
     .welcome-div{
         padding-top: 3em;
         padding-bottom: 3em;
-        max-width: 20em;
     }
     .spread-div{
         padding-top: 2em;
