@@ -198,6 +198,9 @@ ul{
     .spread-link{
         font-size: 0.7em
     }
+    .footer-content{
+        border-right: 0;
+    }
 }
 
 /* border: 1px solid red; */
