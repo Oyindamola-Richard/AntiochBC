@@ -117,6 +117,7 @@ ul{
 }
 .spread-head{
     letter-spacing: 0.2em;
+    max-width: 15em;
 }
 .spread-link{
     background-color: #012646;
