@@ -6,14 +6,12 @@
     width: 100vw;
 } */
 .navbrand{
-    /* border: 1px solid red; */
     text-align: center;
 }
 .logo{
     width: 50px;
 }
 .antioch{
-    /* border: 1px solid red; */
     letter-spacing: 0.5em;
     font-weight: 600;
 }
@@ -22,7 +20,6 @@
     font-size: 0.8em;
 }
 ul{
-    /* border: 1px solid red; */
     justify-content: space-between;
     margin-left: 2em;
 }
@@ -162,5 +159,15 @@ ul{
     }
     .carousel-text3{
         font-size: 0.8em;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
     }
 }
