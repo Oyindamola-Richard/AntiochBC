@@ -10,7 +10,6 @@
 }
 .logo{
     width: 50px;
-    border: 1px solid blue;
 }
 .antioch{
     letter-spacing: 0.5em;
@@ -236,6 +235,9 @@ ul{
     .navbrand a{
         display: flex;
         gap: 0.5em;
+    }
+    .logo{
+        display: none;
     }
     .antioch{
         letter-spacing: 0.3em;
