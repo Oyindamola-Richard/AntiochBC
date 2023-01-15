@@ -22,6 +22,9 @@ ul{
 }
 
 /* HOME PAGE STYLE */
+/* .home-page{
+    display: none;
+} */
 .carousel-con{
     background-image: url(/img/favicon.jpg);
     background-position: center;
