@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
 }
-/* .navbar{
-    width: 100vw;
-} */
 .navbrand{
     text-align: center;
 }
@@ -23,6 +20,8 @@ ul{
     justify-content: space-between;
     margin-left: 2em;
 }
+
+/* HOME PAGE STYLE */
 .carousel-con{
     background-image: url(/img/favicon.jpg);
     background-position: center;
@@ -141,7 +140,7 @@ ul{
     line-height: 1.2em;
 }
 
-/* Resposiveness */
+/* HOME PAGE RESPONSIVENESS */
 @media all and (max-width: 280px){
     .carousel-con{
         height: 55vh;
