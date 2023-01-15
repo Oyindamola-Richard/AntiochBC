@@ -26,7 +26,7 @@ ul{
     display: none;
 } */
 .carousel-con{
-    background-image: url(/img/favicon.jpg);
+    background-image: url(https://static.wixstatic.com/media/84770f_cbb616c8fac84482b014ed77163961a4~mv2.jpg/v1/fill/w_1023,h_728,q_90/84770f_cbb616c8fac84482b014ed77163961a4~mv2.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -109,7 +109,7 @@ ul{
     font-size: 0.75em;
 }
 .spread-div{
-    background-image: url(./img/favicon.jpg);
+    background-image: url(https://static.wixstatic.com/media/8425ecadf47444dfb40f79663d4cb9c5.jpg/v1/fill/w_298,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8425ecadf47444dfb40f79663d4cb9c5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
