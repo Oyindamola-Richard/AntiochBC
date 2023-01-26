@@ -92,6 +92,9 @@
     .baptist{
         letter-spacing: 0.15em;
     }
+    video{
+        width: 300px;
+    }
     .footer-content{
         border-right: 0;
     }
