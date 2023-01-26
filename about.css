@@ -13,3 +13,15 @@
     letter-spacing: 0.2em;
     font-size: 0.8em;
 }
+
+.footer{
+    background-color: #2F2E2E;
+    color: #8f8f8f;
+}
+.footer-content{
+    border-right: 1px solid #8f8f8f;
+}
+.footer-p{
+    font-size: 0.9em;
+    line-height: 1.2em;
+}
