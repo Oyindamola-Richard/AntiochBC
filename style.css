@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
 }
-.navbrand{
-    text-align: center;
-}
 .logo{
     width: 50px;
 }
@@ -15,10 +12,6 @@
 .baptist{
     letter-spacing: 0.2em;
     font-size: 0.8em;
-}
-ul{
-    justify-content: space-between;
-    margin-left: 2em;
 }
 .carousel-con{
     background-image: url(https://static.wixstatic.com/media/84770f_cbb616c8fac84482b014ed77163961a4~mv2.jpg/v1/fill/w_1023,h_728,q_90/84770f_cbb616c8fac84482b014ed77163961a4~mv2.webp);
