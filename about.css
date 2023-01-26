@@ -133,6 +133,9 @@
     .baptist{
         letter-spacing: 0.15em;
     }
+    video{
+        max-width: 405px;
+    }
     .footer-content{
         border-right: 0;
     }
