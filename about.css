@@ -13,6 +13,21 @@
     letter-spacing: 0.2em;
     font-size: 0.8em;
 }
+.about-div{
+    background-image: url(https://static.wixstatic.com/media/3b1f25_dd7d1a886fca433582a61f39c3c259a1.jpg/v1/fill/w_1023,h_540,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3b1f25_dd7d1a886fca433582a61f39c3c259a1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.9;
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
+.about-head{
+    letter-spacing: 0.2em;
+    max-width: 15em;
+}
+
 
 .footer{
     background-color: #2F2E2E;
