@@ -48,3 +48,101 @@
     font-size: 0.9em;
     line-height: 1.2em;
 }
+
+/* HOME PAGE RESPONSIVENESS */
+@media all and (max-width: 280px){
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .logo{
+        width: 35px;
+    }
+    .antioch{
+        letter-spacing: 0.2em;
+        font-size: 0.9em;
+    }
+    .baptist{
+        letter-spacing: 0.1em;
+        font-size: 0.7em;
+    }
+    video{
+        width: 260px;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+    footer{
+        font-size: 0.7em;
+    }
+}
+
+@media all and (min-width: 281px) and (max-width: 320px){
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .logo{
+        width: 50px;
+        height: 50px;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+    footer{
+        font-size: 0.8em;
+    }
+}
+
+@media all and (min-width: 321px) and (max-width: 375px){
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+}
+
+@media all and (min-width: 376px) and (max-width: 425px){
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+}
+@media all and (min-width:426px) and (max-width:720px){
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+}
