@@ -29,6 +29,7 @@
 .family-mid{
     padding-top: 6em;
     padding-bottom: 6em;
+    max-width: 45em;
 }
 .family-head{
     letter-spacing: 0.1em;
