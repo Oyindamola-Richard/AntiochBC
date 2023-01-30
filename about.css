@@ -109,6 +109,12 @@
         padding-top: 2em;
         padding-bottom: 2em;
     }
+    .mid-head{
+        font-size: 1.05em;
+    }
+    .about-mid p{
+        font-size: 0.95em;
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
