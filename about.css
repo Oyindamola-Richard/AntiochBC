@@ -223,6 +223,23 @@
     .about-mid p{
         font-size: 1em;
     }
+    .faith-gen{
+        padding-top: 0em;
+        padding-bottom: 1em;
+    }
+    .faith-div{
+        text-align: center;
+    }
+    .faith-div h5{
+        margin-top: 1em;
+    }
+    .faith-div div{
+        width: fit-content;
+        margin: auto;
+    }
+    .faith-div p{
+        font-size: 1em;
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
