@@ -26,3 +26,10 @@
     letter-spacing: 0.2em;
     max-width: 15em;
 }
+.family-mid{
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
+.family-head{
+    letter-spacing: 0.1em;
+}
