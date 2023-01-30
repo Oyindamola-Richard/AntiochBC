@@ -101,6 +101,10 @@
 }
 
 @media all and (min-width: 281px) and (max-width: 320px){
+    .about-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
