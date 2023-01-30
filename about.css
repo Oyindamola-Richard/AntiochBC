@@ -51,6 +51,10 @@
 
 /* HOME PAGE RESPONSIVENESS */
 @media all and (max-width: 280px){
+    .about-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
