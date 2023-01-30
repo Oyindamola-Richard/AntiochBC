@@ -59,6 +59,10 @@
         padding-top: 2em;
         padding-bottom: 2em;
     }
+    .faith-gen{
+        padding-top: 0em;
+        padding-bottom: 1em;
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
@@ -75,6 +79,7 @@
         font-size: 0.7em;
     }
     video{
+        margin-top: -40px;
         max-width: 260px;
     }
     .footer-content{
