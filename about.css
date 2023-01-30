@@ -209,6 +209,20 @@
 }
 
 @media all and (min-width: 376px) and (max-width: 425px){
+    .about-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .about-mid-gen{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .mid-head{
+        font-size: 1.2em;
+    }
+    .about-mid p{
+        font-size: 1em;
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
