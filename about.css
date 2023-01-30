@@ -115,6 +115,23 @@
     .about-mid p{
         font-size: 0.95em;
     }
+    .faith-gen{
+        padding-top: 0em;
+        padding-bottom: 1em;
+    }
+    .faith-div{
+        text-align: center;
+    }
+    .faith-div h5{
+        margin-top: 1em;
+    }
+    .faith-div div{
+        width: fit-content;
+        margin: auto;
+    }
+    .faith-div p{
+        font-size: 0.95em;
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
@@ -130,6 +147,7 @@
         letter-spacing: 0.15em;
     }
     video{
+        margin-top: -20px;
         max-width: 300px;
     }
     .footer-content{
