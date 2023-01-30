@@ -258,6 +258,37 @@
     }
 }
 @media all and (min-width:426px) and (max-width:720px){
+    .about-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .about-mid-gen{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .mid-head{
+        font-size: 1.3em;
+    }
+    .about-mid p{
+        font-size: 1em;
+    }
+    .faith-gen{
+        padding-top: 0em;
+        padding-bottom: 1em;
+    }
+    .faith-div{
+        text-align: center;
+    }
+    .faith-div h5{
+        margin-top: 1em;
+    }
+    .faith-div div{
+        width: fit-content;
+        margin: auto;
+    }
+    .faith-div p{
+        font-size: 1em;
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
@@ -269,7 +300,7 @@
         letter-spacing: 0.15em;
     }
     video{
-        max-width: 700px;
+        max-width: 500px;
     }
     .footer-content{
         border-right: 0;
