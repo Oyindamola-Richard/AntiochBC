@@ -13,3 +13,16 @@
     letter-spacing: 0.2em;
     font-size: 0.8em;
 }
+.sermon-div{
+    background-image: url(https://static.wixstatic.com/media/3b1f25_0c879616f0414d26997352cbcf27a1ec.jpg/v1/fill/w_1024,h_601,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3b1f25_0c879616f0414d26997352cbcf27a1ec.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
+.sermon-head{
+    letter-spacing: 0.2em;
+    max-width: 15em;
+}
