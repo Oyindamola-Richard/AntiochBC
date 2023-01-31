@@ -213,3 +213,54 @@
         border-right: 0;
     }
 }
+
+
+@media all and (min-width: 376px) and (max-width: 425px){
+    .sermon-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .family-mid{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .family-head{
+        font-size: 1.2em;
+    }
+    .family-mid p{
+        font-size: 1em;
+    }
+    .hour-gen{
+        padding-top: 2em;
+        padding-bottom: 1em;
+    }
+    .hour-div{
+        text-align: center;
+    }
+    .hour-div h5{
+        margin-top: 1em;
+    }
+    .hour-div div{
+        width: fit-content;
+        margin: auto;
+    }
+    .hour-div p{
+        font-size: 1em;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .hour-gen div img{
+        max-width: 94vw;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+}
