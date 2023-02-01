@@ -125,3 +125,37 @@
         font-size: 0.8em;
     }
 }
+
+@media all and (min-width: 321px) and (max-width: 375px){
+    .event-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .event-mid-gen{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .event-mid-gen img{
+        max-width: 94vw;
+        max-height: 200px;
+    }
+    .p1{
+        margin-top: 1em;
+    }
+    .event-mid-gen p{
+        font-size: 0.95em;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+}
