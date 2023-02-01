@@ -30,8 +30,6 @@
     padding-top: 6em;
     padding-bottom: 6em;
 }
-
-
 .footer{
     background-color: #2F2E2E;
     color: #8f8f8f;
@@ -42,4 +40,42 @@
 .footer-p{
     font-size: 0.9em;
     line-height: 1.2em;
+}
+
+
+
+@media all and (min-width: 281px) and (max-width: 320px){
+    .event-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .event-mid-gen{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .event-mid-gen div img{
+        max-width: 94vw;
+        max-height: 200px;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .logo{
+        width: 50px;
+        height: 50px;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    
+    .footer-content{
+        border-right: 0;
+    }
+    footer{
+        font-size: 0.8em;
+    }
 }
