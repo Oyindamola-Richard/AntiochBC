@@ -53,12 +53,15 @@
         padding-top: 2em;
         padding-bottom: 2em;
     }
-    .event-mid-gen div img{
+    .event-mid-gen img{
         max-width: 94vw;
         max-height: 200px;
     }
     .p1{
         margin-top: 1em;
+    }
+    .event-mid-gen p{
+        font-size: 0.95em;
     }
     .navbrand a{
         display: flex;
