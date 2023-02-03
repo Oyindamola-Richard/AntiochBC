@@ -165,8 +165,11 @@
     }
     .event-content{
         border-right: none;
-        border-bottom: 1px solid rgb(139, 139, 139);
         width: 100vw;
+    }
+    .hhr{
+        display: block;
+        color: rgb(15, 15, 15);
     }
     .event-content h3{
         margin-top: 2em;
