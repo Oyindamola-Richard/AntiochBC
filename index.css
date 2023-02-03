@@ -54,6 +54,9 @@
     border-right: 1px solid rgb(139, 139, 139);
     width: 20em;
 }
+.hhr{
+    display: none;
+}
 .event-con2{
     margin-top: 6em;
     color: #3f4643;
@@ -232,7 +235,10 @@
     }
     .event-content{
         border-right: none;
-        border-bottom: 1px solid rgb(139, 139, 139);
+    }
+    .hhr{
+        display: block;
+        color: rgb(15, 15, 15);
     }
     .event-content h3{
         margin-top: 2em;
@@ -297,7 +303,10 @@
     }
     .event-content{
         border-right: none;
-        border-bottom: 1px solid rgb(139, 139, 139);
+    }
+    .hhr{
+        display: block;
+        color: rgb(15, 15, 15);
     }
     .event-content h3{
         margin-top: 2em;
@@ -362,7 +371,10 @@
     }
     .event-content{
         border-right: none;
-        border-bottom: 1px solid rgb(139, 139, 139);
+    }
+    .hhr{
+        display: block;
+        color: rgb(15, 15, 15);
     }
     .event-content h3{
         margin-top: 2em;
@@ -427,7 +439,10 @@
     }
     .event-content{
         border-right: none;
-        border-bottom: 1px solid rgb(139, 139, 139);
+    }
+    .hhr{
+        display: block;
+        color: rgb(15, 15, 15);
     }
     .event-content h3{
         margin-top: 2em;
