@@ -484,3 +484,67 @@
         border-right: 0;
     }
 }
+@media all and (min-width:721px) and (max-width:767px){
+    .carousel-con{
+        height: 70vh;
+        padding-top: 3em;
+    }
+    .carousel-texts{
+        height: 300px;
+        text-align: center; 
+    }
+    .carousel-text1{
+        font-size: 1.5em;
+    }
+    .carousel-text2{
+        font-size: 2em;
+    }
+    .carousel-text3{
+        font-size: 0.8em;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .event-content{
+        border-right: none;
+        margin: auto;
+    }
+    .hhr{
+        display: block;
+        color: rgb(15, 15, 15);
+    }
+    .event-content h3{
+        margin-top: 2em;
+    }
+    .event-con2{
+        margin-top: 1.5em;
+    }
+    .event-con4{
+        margin-top: 2.5em;
+        margin-bottom: 2.5em;
+    }
+    .event-con5{
+        margin-top: 2em;
+    }
+    .welcome-div{
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
+    .spread-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .spread-link{
+        font-size: 0.7em
+    }
+    .footer-content{
+        border-right: 0;
+    }
+}
