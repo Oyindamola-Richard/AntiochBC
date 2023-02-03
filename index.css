@@ -50,9 +50,6 @@
 .event-container{
     background-color: #F7F5F2;
 }
-.event-header{
-    text-align: center;
-}
 .event-content{
     border-right: 1px solid rgb(139, 139, 139);
     width: 20em;
