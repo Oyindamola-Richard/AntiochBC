@@ -559,11 +559,49 @@
     .footer-content{
         border-right: 0;
     }
+    .footer-pp{
+        font-size: 0.7em;
+    }
 }
-@media all and (min-width:721px) and (max-width:915px){
+@media all and (min-width:768px) and (max-width:915px){
     .carousel-con{
-        height: 50vh;
+        height: 70vh;
         padding-top: 3em;
+    }
+    .carousel-texts{
+        height: 300px;
+        text-align: center; 
+    }
+    .carousel-text1{
+        font-size: 1.5em;
+    }
+    .carousel-text2{
+        font-size: 2em;
+    }
+    .carousel-text3{
+        font-size: 0.8em;
+    }
+    .footer-pp{
+        font-size: 0.7em;
+    }
+}
+@media all and (min-width:916px) and (max-width:1024px){
+    .carousel-con{
+        height: 70vh;
+        padding-top: 2em;
+    }
+    .carousel-texts{
+        height: 300px;
+        text-align: center; 
+    }
+    .carousel-text1{
+        font-size: 1.5em;
+    }
+    .carousel-text2{
+        font-size: 2em;
+    }
+    .carousel-text3{
+        font-size: 0.8em;
     }
     .footer-pp{
         font-size: 0.7em;
