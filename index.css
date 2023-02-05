@@ -561,6 +561,10 @@
     }
 }
 @media all and (min-width:721px) and (max-width:915px){
+    .carousel-con{
+        height: 50vh;
+        padding-top: 3em;
+    }
     .footer-pp{
         font-size: 0.7em;
     }
