@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 50px;
+}
+.antioch{
+    letter-spacing: 0.5em;
+    font-weight: 600;
+}
+.baptist{
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
