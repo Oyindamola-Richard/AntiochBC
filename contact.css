@@ -13,3 +13,16 @@
     letter-spacing: 0.2em;
     font-size: 0.8em;
 }
+.contact-div{
+    background-image: url(https://static.wixstatic.com/media/3b1f25_3ea14133c97a4521a3ac6e1ab3699251.jpg/v1/fill/w_552,h_287,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/3b1f25_3ea14133c97a4521a3ac6e1ab3699251.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
+.contact-head{
+    letter-spacing: 0.2em;
+    max-width: 15em;
+}
