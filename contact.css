@@ -33,4 +33,6 @@
 .conicon-div{
     padding-top: 5em;
     padding-bottom: 6em;
+    margin: auto;
+    width: fit-content;
 }
