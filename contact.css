@@ -135,3 +135,38 @@
         font-size: 0.8em;
     }
 }
+@media all and (min-width: 321px) and (max-width: 375px){
+    .contact-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .map{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .conicon-div{
+        padding-top: 1em;
+        padding-bottom: 2em;
+    }
+    iframe{
+        width: 350px;
+        height: 200px;
+    }
+    .location-div{
+        margin-top: 2em;
+        margin-bottom: 2em;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+}
