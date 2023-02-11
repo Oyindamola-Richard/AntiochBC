@@ -248,3 +248,8 @@
         font-size: 0.7em;
     }
 }
+@media all and (min-width:916px) and (max-width:1024px){
+    .call-div div a{
+        width: max-content;
+    }
+}
