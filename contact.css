@@ -240,3 +240,11 @@
         border-right: 0;
     }
 }
+@media all and (min-width:721px) and (max-width:915px){
+    .call-div div a{
+        width: max-content;
+    }
+    .footer-pp{
+        font-size: 0.7em;
+    }
+}
