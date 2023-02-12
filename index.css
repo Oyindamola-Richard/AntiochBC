@@ -14,7 +14,9 @@
     font-size: 0.8em;
 }
 .carousel-con{
-    background-image: url(https://projec/tpictures.netlify.app/antioch%20img/img1.jpg);
+    /* background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3) ), url(https://projectpictures.netlify.app/antioch%20img/img1.jpg); */
+    /* background-image: url(https://projec/tpictures.netlify.app/antioch%20img/img1.jpg); */
+    background-image: url(/img/img1.jpg);
     filter: brightness(85%);
     background-position: center;
     background-repeat: no-repeat;
