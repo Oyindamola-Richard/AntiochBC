@@ -16,7 +16,7 @@
 .carousel-con{
     /* background-image: url(https://projec/tpictures.netlify.app/antioch%20img/img1.jpg); */
     background-image: url(/img/img1.jpg);
-    filter: brightness(75%);
+    filter: brightness(80%);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
