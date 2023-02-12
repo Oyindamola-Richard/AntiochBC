@@ -14,14 +14,15 @@
     font-size: 0.8em;
 }
 .carousel-con{
-    background-image: url(https://projectpictures.netlify.app/antioch%20img/img1.jpg);
+    background-image: url(https://projec/tpictures.netlify.app/antioch%20img/img1.jpg);
+    filter: brightness(85%);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
     width: 100vw;
-    padding-top: 10em;
-    opacity: 0.9;
+    padding-top: 8em;
+    /* opacity: 0.9; */
 }
 .carousel-texts{
     color: black;
