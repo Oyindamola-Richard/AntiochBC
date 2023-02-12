@@ -19,12 +19,12 @@
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-}
-.contact-con{
     padding-top: 6em;
     padding-bottom: 6em;
-    backdrop-filter: brightness(55%);
 }
+/* .contact-con{
+    backdrop-filter: brightness(55%);
+} */
 .contact-head{
     letter-spacing: 0.2em;
     max-width: 15em;

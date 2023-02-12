@@ -19,12 +19,12 @@
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-}
-.sermon-con{
     padding-top: 6em;
     padding-bottom: 6em;
-    backdrop-filter: brightness(65%);
 }
+/* .sermon-con{
+    backdrop-filter: brightness(65%);
+} */
 .sermon-head{
     letter-spacing: 0.2em;
     max-width: 15em;
