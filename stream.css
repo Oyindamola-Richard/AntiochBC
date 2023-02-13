@@ -13,3 +13,9 @@
     letter-spacing: 0.2em;
     font-size: 0.8em;
 }
+.stream-div{
+    padding-top: 6em;
+    padding-bottom: 6em;
+    margin: auto;
+    width: fit-content;
+}
