@@ -20,9 +20,41 @@
     width: fit-content;
     gap: 20em;
 }
-/* .stream-div a{
-    
-} */
+.faceebook a{
+    border: 0.35em solid black;
+    border-radius: 50%;
+    animation: move 1.7s infinite;
+}
+.faceebook a svg{
+    border: 0.35em solid black;
+    border-radius: 50%;
+    animation: move 1.7s infinite;
+}
+.mixlr a{
+    border: 0.35em solid black;
+    border-radius: 50%;
+    animation: move 1.7s infinite;
+}
+.mixlr a svg{
+    border: 0.35em solid black;
+    border-radius: 50%;
+    animation: move 1.7s infinite;
+    /* animation: mo 1.7s infinite; */
+}
+@keyframes move{
+    0%{
+        border: 0.35em solid rgb(238, 238, 238);
+        /* scale: 10%; */
+    }
+    50%{
+        border: 0.35em solid rgb(117, 117, 117);
+        /* scale: -50%; */
+    }
+    100%{
+        border:0.35em solid #000000;
+        /* scale: 100%; */
+    }
+}
 .footer{
     background-color: #2F2E2E;
     color: #8f8f8f;
