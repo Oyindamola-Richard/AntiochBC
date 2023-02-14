@@ -22,9 +22,6 @@
     padding-top: 6em;
     padding-bottom: 6em;
 }
-/* .sermon-con{
-    backdrop-filter: brightness(65%);
-} */
 .sermon-head{
     letter-spacing: 0.2em;
     max-width: 15em;
@@ -100,7 +97,7 @@
         font-size: 0.7em;
     }
     .hour-gen div img{
-        max-width: 90vw;
+        max-width: 92vw;
     }
     .footer-content{
         border-right: 0;
@@ -157,7 +154,7 @@
         letter-spacing: 0.15em;
     }
     .hour-gen div img{
-        max-width: 94vw;
+        max-width: 92.5vw;
     }
     .footer-content{
         border-right: 0;
@@ -210,7 +207,7 @@
         letter-spacing: 0.15em;
     }
     .hour-gen div img{
-        max-width: 94vw;
+        max-width: 93.5vw;
     }
     .footer-content{
         border-right: 0;
