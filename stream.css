@@ -68,3 +68,34 @@ hr{
     font-size: 0.9em;
     line-height: 1.2em;
 }
+/* HOME PAGE RESPONSIVENESS */
+@media all and (max-width: 280px){
+    .stream-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    hr{
+        display: block;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .logo{
+        width: 35px;
+    }
+    .antioch{
+        letter-spacing: 0.2em;
+        font-size: 0.9em;
+    }
+    .baptist{
+        letter-spacing: 0.1em;
+        font-size: 0.7em;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+    footer{
+        font-size: 0.7em;
+    }
+}
