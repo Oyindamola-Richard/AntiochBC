@@ -23,24 +23,24 @@
 .faceebook a{
     border: 0.35em solid black;
     border-radius: 50%;
-    animation: move 2s infinite;
+    animation: color 2s infinite;
 }
 .faceebook a svg{
     border: 0.35em solid black;
     border-radius: 50%;
-    animation: move 2s infinite;
+    animation: color 2s infinite;
 }
 .mixlr a{
     border: 0.35em solid black;
     border-radius: 50%;
-    animation: move 2s infinite;
+    animation: color 2s infinite;
 }
 .mixlr a svg{
     border: 0.35em solid black;
     border-radius: 50%;
-    animation: move 2s infinite;
+    animation: color 2s infinite;
 }
-@keyframes move{
+@keyframes color{
     0%{
         border: 0.35em solid rgb(240, 240, 240);
     }
