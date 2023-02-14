@@ -147,3 +147,25 @@ hr{
         border-right: 0;
     }
 }
+@media all and (min-width: 376px) and (max-width: 425px){
+    .stream-div{
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    hr{
+        display: block;
+    }
+    .navbrand a{
+        display: flex;
+        gap: 0.5em;
+    }
+    .antioch{
+        letter-spacing: 0.3em;
+    }
+    .baptist{
+        letter-spacing: 0.15em;
+    }
+    .footer-content{
+        border-right: 0;
+    }
+}
