@@ -54,6 +54,9 @@
         border:0.35em solid #2b2b2b;
     }
 }
+hr{
+    display: none;
+}
 .footer{
     background-color: #2F2E2E;
     color: #8f8f8f;
