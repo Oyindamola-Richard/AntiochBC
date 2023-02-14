@@ -22,9 +22,6 @@
     padding-top: 6em;
     padding-bottom: 6em;
 }
-/* .about-con{
-    backdrop-filter: brightness(65%);
-} */
 .about-head{
     letter-spacing: 0.2em;
     max-width: 15em;
@@ -93,7 +90,7 @@
     }
     video{
         margin-top: -40px;
-        max-width: 90vw;
+        max-width: 92vw;
     }
     .footer-content{
         border-right: 0;
@@ -151,7 +148,7 @@
     }
     video{
         margin-top: -20px;
-        max-width: 94vw;
+        max-width: 92.5vw;
     }
     .footer-content{
         border-right: 0;
@@ -204,7 +201,7 @@
         letter-spacing: 0.15em;
     }
     video{
-        max-width: 94vw;
+        max-width: 93.5vw;
     }
     .footer-content{
         border-right: 0;
