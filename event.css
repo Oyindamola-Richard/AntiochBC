@@ -22,9 +22,6 @@
     padding-top: 6em;
     padding-bottom: 6em;
 }
-/* .event-con{
-    backdrop-filter: brightness(55%);
-} */
 .event-head{
     letter-spacing: 0.2em;
     max-width: 15em;
@@ -56,7 +53,7 @@
         padding-bottom: 2em;
     }
     .event-mid-gen img{
-        max-width: 94vw;
+        max-width: 92vw;
         max-height: 200px;
     }
     .p1{
@@ -98,7 +95,7 @@
         padding-bottom: 2em;
     }
     .event-mid-gen img{
-        max-width: 94vw;
+        max-width: 92.5vw;
         max-height: 200px;
     }
     .p1{
@@ -139,7 +136,7 @@
         padding-bottom: 2em;
     }
     .event-mid-gen img{
-        max-width: 94vw;
+        max-width: 93.5vw;
         max-height: 200px;
     }
     .p1{
