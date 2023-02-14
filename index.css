@@ -15,7 +15,6 @@
 }
 .carousel-con1{
     background-image: url(https://static.wixstatic.com/media/84770f_cbb616c8fac84482b014ed77163961a4~mv2.jpg/v1/fill/w_1960,h_1456,q_90/84770f_cbb616c8fac84482b014ed77163961a4~mv2.webp);
-    filter: brightness(75%);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,7 +25,6 @@
 .carousel-con2{
     background-image: url(https://static.wixstatic.com/media/84770f_44fe7dcf443f455bb9f62a73f21ad7ca~mv2.jpg/v1/fill/w_1960,h_1456,fp_0.47_0.31,q_90/84770f_44fe7dcf443f455bb9f62a73f21ad7ca~mv2.webp
     );
-    filter: brightness(75%);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,7 +35,6 @@
 .carousel-con3{
     background-image: url(https://static.wixstatic.com/media/84770f_41fe698c167d49e6b0d7f7ea0d4fb0df~mv2.jpg/v1/fill/w_1960,h_1456,q_90/84770f_41fe698c167d49e6b0d7f7ea0d4fb0df~mv2.webp
     );
-    filter: brightness(75%);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -46,7 +43,7 @@
     padding-top: 8em;
 }
 .carousel-texts{
-    color: rgb(0, 0, 0);
+    color: #fff;
     display: grid;
     justify-content: center;
     align-items: center;
