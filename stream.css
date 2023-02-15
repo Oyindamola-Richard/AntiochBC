@@ -51,7 +51,7 @@
         border: 0.35em solid rgb(192, 191, 191);
     }
     100%{
-        border:0.35em solid #2b2b2b;
+        border: 0.35em solid #2b2b2b;
     }
 }
 hr{
@@ -68,6 +68,33 @@ hr{
     font-size: 0.9em;
     line-height: 1.2em;
 }
+.live{
+    color: red;
+    border-radius: 50%;
+    animation: col 2s infinite;
+}
+@keyframes col {
+    0% {
+        scale: 120%;
+      filter: hue-rotate(0deg)
+    }
+    20%{
+        scale: 120%;
+        filter: hue-rotate(90deg);
+    }
+    40%{
+        scale: 100%;
+        filter: hue-rotate(180deg);
+    }
+    85% {
+        scale: 120%;
+      filter: hue-rotate(360deg)
+    }
+    100%{
+        scale: 120%; 
+        filter: grayscale(50);
+    }
+}
 
 /* HOME PAGE RESPONSIVENESS */
 @media all and (max-width: 280px){
@@ -77,6 +104,23 @@ hr{
     }
     hr{
         display: block;
+    }
+    @keyframes col {
+        0% {
+          filter: hue-rotate(0deg)
+        }
+        20%{
+            filter: hue-rotate(90deg);
+        }
+        40%{
+            filter: hue-rotate(180deg);
+        }
+        85% {
+          filter: hue-rotate(360deg)
+        }
+        100%{
+            filter: grayscale(50);
+        }
     }
     .navbrand a{
         display: flex;
@@ -108,6 +152,23 @@ hr{
     hr{
         display: block;
     }
+    @keyframes col {
+        0% {
+          filter: hue-rotate(0deg)
+        }
+        20%{
+            filter: hue-rotate(90deg);
+        }
+        40%{
+            filter: hue-rotate(180deg);
+        }
+        85% {
+          filter: hue-rotate(360deg)
+        }
+        100%{
+            filter: grayscale(50);
+        }
+    }
     .logo{
         width: 50px;
         height: 50px;
@@ -133,6 +194,23 @@ hr{
     hr{
         display: block;
     }
+    @keyframes col {
+        0% {
+          filter: hue-rotate(0deg)
+        }
+        20%{
+            filter: hue-rotate(90deg);
+        }
+        40%{
+            filter: hue-rotate(180deg);
+        }
+        85% {
+          filter: hue-rotate(360deg)
+        }
+        100%{
+            filter: grayscale(50);
+        }
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
@@ -154,6 +232,23 @@ hr{
     }
     hr{
         display: block;
+    }
+    @keyframes col {
+        0% {
+          filter: hue-rotate(0deg)
+        }
+        20%{
+            filter: hue-rotate(90deg);
+        }
+        40%{
+            filter: hue-rotate(180deg);
+        }
+        85% {
+          filter: hue-rotate(360deg)
+        }
+        100%{
+            filter: grayscale(50);
+        }
     }
     .navbrand a{
         display: flex;
@@ -177,6 +272,23 @@ hr{
     hr{
         display: block;
     }
+    @keyframes col {
+        0% {
+          filter: hue-rotate(0deg)
+        }
+        20%{
+            filter: hue-rotate(90deg);
+        }
+        40%{
+            filter: hue-rotate(180deg);
+        }
+        85% {
+          filter: hue-rotate(360deg)
+        }
+        100%{
+            filter: grayscale(50);
+        }
+    }
     .navbrand a{
         display: flex;
         gap: 0.5em;
@@ -194,5 +306,22 @@ hr{
 @media all and (min-width:721px) and (max-width:915px){
     .footer-pp{
         font-size: 0.7em;
+    }
+    @keyframes col {
+        0% {
+          filter: hue-rotate(0deg)
+        }
+        20%{
+            filter: hue-rotate(90deg);
+        }
+        40%{
+            filter: hue-rotate(180deg);
+        }
+        85% {
+          filter: hue-rotate(360deg)
+        }
+        100%{
+            filter: grayscale(50);
+        }
     }
 }
